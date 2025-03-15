@@ -10,6 +10,7 @@ Cada uno provee la última versión y el link de desdarga de la versión estable
 
 El directorio de trabajo es /tmp/SBo.
 
+<b>Los paquetes quedan en /tmp.</b>
 
 Javier Aragonés
 
